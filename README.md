@@ -36,8 +36,8 @@ This program displays three images, a dog, a cat, and a frog, on a canvas. The u
 3. The program will display the three images on a canvas.
 4. Move the mouse over the canvas to move the dog and frog images.
 #### Additional notes
-The program uses **loadImage()** to preload the three images before displaying them on the canvas.
-The program uses **text()** to display the word "Hello!" in the center of the canvas.
-The program uses **textFont(), stroke(), fill(), textSize(), and textAlign()** to style the text.
-The program uses **image()** to display the three images on the canvas.
-The position of the dog and frog images is determined by the position of the mouse using the mouseX and mouseY variables.
+- The program uses **loadImage()** to preload the three images before displaying them on the canvas.
+- The program uses **text()** to display the word "Hello!" in the center of the canvas.
+- The program uses **textFont(), stroke(), fill(), textSize(), and textAlign()** to style the text.
+- The program uses **image()** to display the three images on the canvas.
+- The position of the dog and frog images is determined by the position of the mouse using the mouseX and mouseY variables.
